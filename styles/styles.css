@@ -1,0 +1,33 @@
+
+* {
+    background-color: lightpink;
+    font-family: cursive, "Brush Script MT";
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+button {
+    font-size: 50px;
+    position: absolute;
+    margin-right: 15px;
+}
+
+.yes {
+    left: 40%
+}
+
+.no {
+    left: 55%
+}
+
+.images {
+    width: auto;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 250px;
+}
